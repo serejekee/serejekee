@@ -28,7 +28,7 @@
 
 ### 🚀 Открытые проекты
 
-📬 [`echogram`]((https://github.com/serejekee/echogram))  
+📬 [`echogram`](https://github.com/serejekee/echogram)
 ИИ телеграм бот.
 ---
 
