@@ -44,8 +44,11 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=serejekee&show_icons=true&theme=tokyonight" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=serejekee&theme=tokyonight&hide_border=false&layout=compact" />
 </p>
 
 ---
+
 _Профиль обновлён в 2025. Спасибо за визит!_
 
