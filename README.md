@@ -1,7 +1,7 @@
 <h1 align="center">Привет! Я Python-разработчик 👋</h1>
 
 <p align="center">
-🔹 Python · Aiogram · PostgreSQL · Telegram Bots 🔹
+🔹 Python · PostgreSQL · Telegram Bots · Fast API · Redis · Docker🔹 
 </p>
 
 ---
