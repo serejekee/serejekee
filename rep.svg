@@ -1,4 +1,3 @@
-
     <svg
       width="110"
       height="110"
@@ -85,6 +84,27 @@
       fill="#00aeff"
     />
   
+  <style>
+    @keyframes RepositoriesRankAnimation {
+      from {
+        width: 0px;
+      }
+      to {
+        width: 80px;
+      }
+    }
+    #Repositories-rank-progress{
+      animation: RepositoriesRankAnimation 1s forwards ease-in-out;
+    }
+  </style>
+
+  <script>
+    var totalRepositories = 45;
+    var maxRepositories = 45;
+    var progress = (totalRepositories / maxRepositories) * 80;
+    document.getElementById("Repositories-rank-progress").setAttribute("width", progress);
+    document.querySelector("text").textContent = totalRepositories + " Repositories";
+  </script>
         </svg>
         
     </svg>
