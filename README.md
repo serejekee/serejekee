@@ -1,4 +1,4 @@
-<h1 align="center">Привет! Я Telegram-разработчик 👋</h1>
+<h1 align="center">Привет! Я Python-разработчик 👋</h1>
 
 <p align="center">
 🔹 Python · Aiogram · PostgreSQL · Telegram Bots 🔹
