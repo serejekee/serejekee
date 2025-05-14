@@ -33,7 +33,7 @@
 ИИ телеграм бот.  
 🤖 [`FastAPI`](https://github.com/serejekee/eco_bot) 
  Простой чат-бот API на FastAPI.  
-🗄 [`PostgreSQL`](https://github.com/serejekee/crud_app)
+🗃️ [`PostgreSQL`](https://github.com/serejekee/crud_app)
 ToDo Python с PostgreSQL
 ---
 
