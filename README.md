@@ -28,7 +28,7 @@
 
 ### 🚀 Открытые проекты
 
-📬 [`echogram`](https://github.com/serejekee/echogram)
+📬 [`OpenAI`](https://github.com/serejekee/echogram)
 ИИ телеграм бот.  
 🤖 [`FastAPI`](https://github.com/serejekee/eco_bot) 
  Простой чат-бот API на FastAPI.
