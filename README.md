@@ -49,8 +49,9 @@ ToDo Python с PostgreSQL
 ### 📈 Статистика GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=serejekee&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=serejekee&theme=tokyonight" />
+  <img src="rep.svg" />
+  <img src="https://github-readme-stats.vercel.app/api?username=serejekee&show_icons=true&theme=tokyonight" width="350" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=serejekee&theme=tokyonight" width="300" />
 </p>
 
 ---
