@@ -36,6 +36,8 @@
  Простой чат-бот API на FastAPI.  
 🗃️ [`PostgreSQL`](https://github.com/serejekee/crud_app)
 ToDo Python с PostgreSQL
+🗃️ [`TheBat`](https://github.com/serejekee/thebat_parser)
+Автозаполнение данных с .eml to docx
 ---
 
 ### 📫 Контакты
