@@ -99,8 +99,8 @@
   </style>
 
   <script>
-    var totalRepositories = 45;
-    var maxRepositories = 45;
+    var totalRepositories = 48;
+    var maxRepositories = 100;
     var progress = (totalRepositories / maxRepositories) * 80;
     document.getElementById("Repositories-rank-progress").setAttribute("width", progress);
     document.querySelector("text").textContent = totalRepositories + " Repositories";
