@@ -37,7 +37,7 @@
 🗃️ [`PostgreSQL`](https://github.com/serejekee/crud_app)
 ToDo Python с PostgreSQL  
 📧 [`TheBat`](https://github.com/serejekee/thebat_parser)
-Автозаполнение данных с .eml to docx
+Автозаполнение данных из .eml в docx
 ---
 
 ### 📫 Контакты
