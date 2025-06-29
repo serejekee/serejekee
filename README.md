@@ -29,7 +29,8 @@
 ---
 
 ### 🚀 Открытые проекты
-
+📬 [`Fullstack_app`](https://github.com/serejekee/drivers_licence_free)
+Fullstack app.  
 📬 [`OpenAI`](https://github.com/serejekee/echogram)
 ИИ телеграм бот.  
 🤖 [`FastAPI`](https://github.com/serejekee/eco_bot) 
