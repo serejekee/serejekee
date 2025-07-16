@@ -7,13 +7,14 @@
 ---
 
 ### 🧑‍💻 Обо мне
-
-- 🚀 Разрабатываю Telegram-ботов на `aiogram` от бизнеса до прочего 
-- 🧠 Автоматизирую процессы: подбор персонала, обработка заявок, воронки и т.д.  
-- 💡 За плечами 100+ интеграций с внешними сервисами: hh.ru, Google Sheets, Airtable, Notion, Trello, Bitrix24, AmoCRM, HubSpot, Zoho CRM, Google Calendar, Telegram API, VK API, YouTube, Google Docs, Google Drive, Yandex Disk, Dropbox, Jira, Confluence, Discord, Slack, Mailchimp, SendGrid, Facebook Graph API, Instagram Graph API, PayPal, Stripe, Tinkoff API, Сбербанк API, Binance API, OpenAI API, GPT-4, Dadata, ReCaptcha, Twilio, Plivo, Webhook.site, Typeform, Jotform, Notion API, ClickUp, Monday.com, Miro, Asana, Calendly, Zoom API, Microsoft Graph, Outlook, Office365, GitHub API, GitLab API, Vercel API, Netlify, Render, Railway, Firebase, Supabase, PocketBase, Airtable API, Retool, Metabase, Redash, PostgreSQL, MySQL, MongoDB, Redis, Elasticsearch, Algolia, Yandex Metrica, Google Analytics, Amplitude, Mixpanel, Segment, Intercom, Crisp, Tilda, Webflow, Wix API, Telegram Web Apps, Stripe Webhooks, FastAPI, Flask, Celery, Docker, Git, GitHub Actions, Telegram Passport, OAuth2, JWT, JSON API, REST, GraphQL, и др.
-- ⚙️ Использую FastAPI для создания производительных и масштабируемых backend-сервисов
-- 🛠 Люблю писать чистый, масштабируемый код и оформлять проекты как шаблоны для повторного использования  
-- 📍 Работаю удалённо, доступен для сотрудничества и заказов
+- 💻 Специализируюсь на разработке backend-систем на Python (FastAPI) — от проектирования архитектуры до развёртывания в продакшн
+- ⚙️ Создаю масштабируемые REST API, интеграции с внешними сервисами, системы авторизации (JWT, OAuth2), очереди задач (Celery), кеширование (Redis), и CI/CD пайплайны
+- 🔌 За плечами 100+ интеграций с API: Google, Telegram, Bitrix24, Notion, Trello, CRM-системы, платёжные шлюзы (Stripe, Tinkoff, Сбербанк, PayPal), OpenAI (GPT-4), и др.
+- 🤖 Telegram-боты — как frontend-слой к backend-сервисам: чат-интерфейсы для CRM, уведомлений, автоматизации и управления данными
+- 📦 Стек: FastAPI, PostgreSQL, Redis, Docker, Celery, GitHub Actions, Supabase, Firebase, MongoDB, Elasticsearch, GraphQL, WebSockets
+- 🧠 Пишу чистый, поддерживаемый и повторно используемый код, использую шаблоны архитектуры, покрываю тестами (Pytest)
+- 🌐 Опыт развёртывания на VPS/Cloud (Render, Railway, Vercel, Netlify), настройка SSL, бэкапов, мониторинга, логирования
+- 📍 Работаю удалённо, открыт для новых проектов, сотрудничества или full-time предложений
 
 ---
 
