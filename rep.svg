@@ -100,7 +100,7 @@
   <script>
     var totalRepositories = 58;
     var maxRepositories = 10000;
-    var progress = (totalRepositories / maxRepositories) * 1000;
+    var progress = (totalRepositories / maxRepositories) * 10000;
     document.getElementById("Repositories-rank-progress").setAttribute("width", progress);
     document.querySelector("text").textContent = totalRepositories + " Repositories";
   </script>
