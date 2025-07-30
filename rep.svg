@@ -50,7 +50,7 @@
   </svg>
   
           <text x="50%" y="18" text-anchor="middle" font-family="Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji" font-weight="bold" font-size="13" fill="#70a5fd">Repositories</text>
-          <text x="50%" y="97" text-anchor="middle" font-family="Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji" font-weight="bold" font-size="10" fill="#38bdae">51pt</text>
+          <text x="50%" y="97" text-anchor="middle" font-family="Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji" font-weight="bold" font-size="10" fill="#38bdae">58pt</text>
           
     <style>
     @keyframes RepositoriesRankAnimation {
@@ -98,9 +98,9 @@
   </style>
 
   <script>
-    var totalRepositories = 51;
-    var maxRepositories = 100;
-    var progress = (totalRepositories / maxRepositories) * 80;
+    var totalRepositories = 58;
+    var maxRepositories = 10000;
+    var progress = (totalRepositories / maxRepositories) * 1000;
     document.getElementById("Repositories-rank-progress").setAttribute("width", progress);
     document.querySelector("text").textContent = totalRepositories + " Repositories";
   </script>
