@@ -89,21 +89,13 @@
         width: 0px;
       }
       to {
-        width: 80px;
+        width: 24px;
       }
     }
     #Repositories-rank-progress{
       animation: RepositoriesRankAnimation 1s forwards ease-in-out;
     }
   </style>
-
-  <script>
-    var totalRepositories = 58;
-    var maxRepositories = 10000;
-    var progress = (totalRepositories / maxRepositories) * 10000;
-    document.getElementById("Repositories-rank-progress").setAttribute("width", progress);
-    document.querySelector("text").textContent = totalRepositories + " Repositories";
-  </script>
         </svg>
         
     </svg>
