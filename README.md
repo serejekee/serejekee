@@ -66,7 +66,7 @@ ToDo Python с PostgreSQL
 
 - Telegram: [@spystars777](https://t.me/spystars777)  
 - Email: serejekee@inbox.ru  
-- Website: [mironoff.tech]([https://www.shop-bot.tech/](https://mironoff.tech/))
+- Website: [mironoff.tech](https://mironoff.tech/)
 
 ---
 
